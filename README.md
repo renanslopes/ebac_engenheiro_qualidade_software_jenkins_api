@@ -1,1 +1,3 @@
-# ebac_engenheiro_qualidade_software_jenkins_api
+# Ebac Engenheiro Qualidade Software Jenkins API
+
+### Repositório criado para prática do módulo sobre DevOps - Jenkins
